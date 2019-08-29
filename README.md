@@ -7,7 +7,7 @@
     <body>
         <header>
 			<h1>My First HTML Page!</h1>
-			<img src="Dat-Lam/Link.jpg" alt="The Legend of Zelda" height="150" class="Link.jpg">
+			<img src="Link.jpg" alt="The Legend of Zelda" height="150" class="Link.jpg">
         </header>
         <section>
             <article>
